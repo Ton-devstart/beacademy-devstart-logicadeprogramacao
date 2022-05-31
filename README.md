@@ -6,7 +6,7 @@ Professor: Marcos
 
 LINK DOS EXERCÍCIOS:
 
-1 - IMC: https://github.com/Ton-devstart/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcios/1%20-%20IMC.ALG
+[1 - IMC:]https://github.com/Ton-devstart/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcios/1%20-%20IMC.ALG
 
 2 - MENOR, ADULTO OU IDOSO: https://github.com/Ton-devstart/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcios/2%20-%20MENOR%2C%20ADULTO%20OU%20IDOSO.ALG
 
