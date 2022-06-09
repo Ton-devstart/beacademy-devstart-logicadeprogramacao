@@ -16,7 +16,7 @@ Formação completa que visa transformar você em um desenvolvedor back-end PHP 
 
 ***Aula:*** Introdução a Lógica de Programação - Exercícios
 
-***Professor:*** Alessandro Feitoza
+***Professor:*** Marcos Monteiro
 
 <br>
 
