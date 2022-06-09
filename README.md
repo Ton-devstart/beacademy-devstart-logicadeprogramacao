@@ -6,13 +6,15 @@
 
 
 # ✔️ Descrição do Projeto:
-***Programa:***Devstar PayLivre!<br>
+***Programa:***Devstar PayLivre!
 Formação completa que visa transformar você em um desenvolvedor back-end PHP na Paylivre, uma fintech em pleno crescimento.
 
 ***Realização:*** be.academy
 
-***Curso:*** PHP
-***Aula:*** Introdução a Lógica de Programação - Exercícios
+***Curso:*** PHP <br/>
+
+***Aula:*** Introdução a Lógica de Programação - Exercícios <br/>
+
 ***Professor:*** Alessandro Feitoza
 
 # ✔️ Técnicas e tecnologias utilizadas
