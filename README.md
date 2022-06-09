@@ -7,23 +7,23 @@
 
 # ✔️ Descrição do Projeto:
 ***Programa:*** Devstar PayLivre!
+<br>
 Formação completa que visa transformar você em um desenvolvedor back-end PHP na Paylivre, uma fintech em pleno crescimento.
 
-***Realização:*** be.academy
+>***Realização:*** be.academy
 
-***Curso:*** PHP <br>
+>***Curso:*** PHP
 
-***Aula:*** Introdução a Lógica de Programação - Exercícios <br>
+>***Aula:*** Introdução a Lógica de Programação - Exercícios
 
-***Professor:*** Alessandro Feitoza
+>***Professor:*** Alessandro Feitoza
+
 
 # ✔️ Técnicas e tecnologias utilizadas
-
 - ``VisualG``
 
 
 # ✔️ Sobre
-
 ### Paylivre
 A Paylivre nasceu dos desafios singulares do mercado de pagamentos, da visão e da vontade de transpor barreiras de uma equipe diversa. 
 Acreditamos que nossos diferentes backgrounds não apenas promovem inovação, como também enriquecem experiências.
@@ -35,7 +35,6 @@ Nós somos feitos dos resultados e da prática de grandes players do mercado atu
 
 
 # ✔️ Autor
-
 - Wellington Bertolassi
 
 
@@ -44,7 +43,6 @@ Nós somos feitos dos resultados e da prática de grandes players do mercado atu
 </p>
 
 # ✔️ Links dos Exercícios
-
 [1 - IMC](https://github.com/Ton-devstart/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcios/1%20-%20IMC.ALG)
 
 [2 - MENOR, ADULTO OU IDOSO](https://github.com/Ton-devstart/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcios/2%20-%20MENOR%2C%20ADULTO%20OU%20IDOSO.ALG)
