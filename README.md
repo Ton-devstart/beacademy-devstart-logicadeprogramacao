@@ -21,7 +21,7 @@ Formação completa que visa transformar você em um desenvolvedor back-end PHP 
 
 # ✔️ Técnicas e tecnologias utilizadas
 - ``VisualG``
-
+<br>
 
 # ✔️ Sobre
 ### Paylivre
@@ -32,11 +32,11 @@ Nós trabalhamos juntos para construir um futuro sem divisas, onde o tempo não 
 ### be.academy
 >Muito prazer, somos uma EdTech. Uma startup de educação que acredita no poder da inovação e das conexões na cultura de negócios, na transformação, na tecnologia, na revolução e na liberdade de empreender. 
 Nós somos feitos dos resultados e da prática de grandes players do mercado atual, que lideram empresas exponenciais que estão revolucionando o mundo e mudando a forma de empreender como Facebook, iFood, Paylivre, Loggi, LinkedIn, Amazon, Vtex, Inova 360, Hotmart, Fiesp e Endeavor.
-
+<br>
 
 # ✔️ Autor
 - Wellington Bertolassi
-
+<br>
 
 # ✔️ Links dos Exercícios
 [1 - IMC](https://github.com/Ton-devstart/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcios/1%20-%20IMC.ALG)
@@ -89,7 +89,7 @@ Nós somos feitos dos resultados e da prática de grandes players do mercado atu
 
 [25 - PLANILHA DE 5 LINHAS E 4 COLUNAS](https://github.com/Ton-devstart/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcios/25%20-%20PLANILHA%20DE%205%20LINHAS%20E%204%20COLUNAS.ALG)
 
-
+<br>
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p>
