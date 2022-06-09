@@ -19,7 +19,6 @@ Formação completa que visa transformar você em um desenvolvedor back-end PHP 
 ***Professor:*** Alessandro Feitoza
 
 <br>
-<br>
 
 # ✔️ Técnicas e tecnologias utilizadas
 - ``VisualG``
