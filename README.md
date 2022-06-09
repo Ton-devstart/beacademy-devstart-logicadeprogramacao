@@ -38,10 +38,6 @@ Nós somos feitos dos resultados e da prática de grandes players do mercado atu
 - Wellington Bertolassi
 
 
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
-
 # ✔️ Links dos Exercícios
 [1 - IMC](https://github.com/Ton-devstart/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcios/1%20-%20IMC.ALG)
 
@@ -92,3 +88,8 @@ Nós somos feitos dos resultados e da prática de grandes players do mercado atu
 [24 - MATRIZ QUADRADA](https://github.com/Ton-devstart/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcios/24%20-%20MATRIZ%20QUADRADA.ALG)
 
 [25 - PLANILHA DE 5 LINHAS E 4 COLUNAS](https://github.com/Ton-devstart/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcios/25%20-%20PLANILHA%20DE%205%20LINHAS%20E%204%20COLUNAS.ALG)
+
+
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
+</p>
