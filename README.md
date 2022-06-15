@@ -86,12 +86,11 @@ Nós somos feitos dos resultados e da prática de grandes players do mercado atu
 
 [25 - PLANILHA DE 5 LINHAS E 4 COLUNAS](https://github.com/Ton-devstart/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcios/25%20-%20PLANILHA%20DE%205%20LINHAS%20E%204%20COLUNAS.ALG)
 
-<br>
 # ✔️ Autores
 - Wellington Bertolassi
 - [@Ton-devstart](https://github.com/Ton-devstart)😄
 <br>
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge"/>
 </p>
